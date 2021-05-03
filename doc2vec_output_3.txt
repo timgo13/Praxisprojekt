@@ -1,0 +1,607 @@
+Before: 45466
+After: 37713
+-----------------------------------------------------------------------------
+Vector Size Test
+Min Count Test
+Window Test
+Negative Test
+Negative: 0
+Average Percentage of already seen movies: 0.003117994914851521
+Max Rank = 37713
+Average Rank of already seen movies: 19266.5
+Fire with Fire
+Man Walking Around a Corner
+The Bedroom Window
+Avenue Montaigne
+Maundy Thursday
+Way of the Wicked
+Father Sergius
+R.O.D - Read or Die
+Pusher
+The Intervention
+Mid: 0
+Rank: 3679
+Mid: 4460
+Rank: 26471
+Mid: 15159
+Rank: 37445
+Mid: 497
+Rank: 24446
+Max Rank = 37713
+Average Rank of already seen movies: 23010.25
+[(8745, 0.3844816982746124), (31187, 0.3559017777442932), (24621, 0.3550417423248291), (13248, 0.34381309151649475), (32248, 0.3413562476634979), (26354, 0.3362167179584503), (14823, 0.33603182435035706), (33142, 0.333359956741333), (25713, 0.33311930298805237), (36675, 0.3301261067390442)]
+The I Inside
+An Example of Intonation
+Copper Canyon
+Sunflower
+Chasing Leprechauns
+Twisted Desire
+Happiness Is a Warm Blanket, Charlie Brown
+The Fjällbacka Murders: The Sea Gives, the Sea Takes
+Without You I'm Nothing
+August. Eighth
+Mid: 694
+Rank: 23484
+Mid: 4523
+Rank: 29288
+Mid: 5018
+Rank: 31025
+Mid: 1637
+Rank: 8312
+Max Rank = 37713
+Average Rank of already seen movies: 23027.25
+-----------------------------------------------------------------------------
+Negative: 1
+Average Percentage of already seen movies: 0.008291706535511166
+Max Rank = 37713
+Average Rank of already seen movies: 18336.65306122449
+Batman
+Super Capers
+Batman & Robin
+LEGO DC Super Hero Girls: Brain Drain
+JLA Adventures: Trapped in Time
+Superman III
+LEGO DC Comics Super Heroes: Justice League: Attack of the Legion of Doom!
+Jonny Quest Vs. The Cyber Insects
+Agent Cody Banks 2: Destination London
+Justice League: Crisis on Two Earths
+Mid: 0
+Rank: 10245
+Mid: 4460
+Rank: 1405
+Mid: 15159
+Rank: 113
+Mid: 497
+Rank: 195
+Max Rank = 37713
+Average Rank of already seen movies: 2989.5
+[(32592, 0.8024894595146179), (27175, 0.7982703447341919), (15580, 0.7946494817733765), (14344, 0.7933000922203064), (10706, 0.7920058965682983), (9691, 0.7864475846290588), (15696, 0.7852394580841064), (28436, 0.7818925976753235), (13027, 0.7742370367050171), (7360, 0.7729678750038147)]
+The Captive Heart
+Admiral
+Broken Lullaby
+Essential Killing
+Assembly
+The Assault
+In Darkness
+Faith of My Fathers
+Shake Hands With the Devil
+The Four Horsemen of the Apocalypse
+Mid: 694
+Rank: 3570
+Mid: 4523
+Rank: 1408
+Mid: 5018
+Rank: 5512
+Mid: 1637
+Rank: 165
+Max Rank = 37713
+Average Rank of already seen movies: 2663.75
+-----------------------------------------------------------------------------
+Negative: 2
+Average Percentage of already seen movies: 0.008993292795542136
+Max Rank = 37713
+Average Rank of already seen movies: 18400.04081632653
+Batman
+Batman & Robin
+Wonder Woman
+Let's Be Evil
+Kim Possible: A Sitch in Time
+Iron Man 2
+Ant-Man
+Sparks
+Justice League: Crisis on Two Earths
+The First Power
+Mid: 0
+Rank: 5920
+Mid: 4460
+Rank: 212
+Mid: 15159
+Rank: 20
+Mid: 497
+Rank: 414
+Max Rank = 37713
+Average Rank of already seen movies: 1641.5
+[(28905, 0.8705651760101318), (16829, 0.8699761629104614), (24610, 0.8674397468566895), (21526, 0.8651222586631775), (15696, 0.8635851740837097), (4456, 0.8607264757156372), (26006, 0.8598850965499878), (15580, 0.8597644567489624), (24831, 0.8596388101577759), (4718, 0.8557481169700623)]
+Soldier
+Fate of a Man
+Phoenix
+The Diary of an Unknown Soldier
+In Darkness
+Triumph of the Spirit
+Universal Soldier II: Brothers in Arms
+Broken Lullaby
+The 317th Platoon
+Ernest In The Army
+Mid: 694
+Rank: 1717
+Mid: 4523
+Rank: 816
+Mid: 5018
+Rank: 1953
+Mid: 1637
+Rank: 33
+Max Rank = 37713
+Average Rank of already seen movies: 1129.75
+-----------------------------------------------------------------------------
+Negative: 3
+Average Percentage of already seen movies: 0.010580874502358301
+Max Rank = 37713
+Average Rank of already seen movies: 18280.65306122449
+Batman
+Wonder Woman
+Get Smart, Again!
+Detective Byomkesh Bakshy!
+Super
+Superman vs. The Elite
+Lawnmower Man 2: Beyond Cyberspace
+Mechanic: Resurrection
+Link
+C.H.U.D. II: Bud the Chud
+Mid: 0
+Rank: 3134
+Mid: 4460
+Rank: 46
+Mid: 15159
+Rank: 79
+Mid: 497
+Rank: 151
+Max Rank = 37713
+Average Rank of already seen movies: 852.5
+[(16829, 0.9022932648658752), (14813, 0.8966912627220154), (20618, 0.8853222131729126), (28603, 0.8834208250045776), (32573, 0.8796425461769104), (3819, 0.8788273930549622), (23359, 0.874315619468689), (24610, 0.8704420328140259), (21781, 0.8700814247131348), (8583, 0.8679709434509277)]
+Fate of a Man
+Cornered
+The Look of Silence
+Alive
+Captive
+Casualties of War
+The Diary of Anne Frank
+Phoenix
+Out of the Ashes
+Black Rain
+Mid: 694
+Rank: 559
+Mid: 4523
+Rank: 772
+Mid: 5018
+Rank: 927
+Mid: 1637
+Rank: 320
+Max Rank = 37713
+Average Rank of already seen movies: 644.5
+-----------------------------------------------------------------------------
+Negative: 5
+Average Percentage of already seen movies: 0.010461326091853993
+Max Rank = 37713
+Average Rank of already seen movies: 17935.785714285714
+Batman
+Next Avengers: Heroes of Tomorrow
+Wonder Woman
+Detective Byomkesh Bakshy!
+Superman vs. The Elite
+Despicable Me 2
+Freaky Deaky
+Cosmic Scrat-tastrophe
+Get Smart, Again!
+This Means War
+Mid: 0
+Rank: 7860
+Mid: 4460
+Rank: 667
+Mid: 15159
+Rank: 62
+Mid: 497
+Rank: 17
+Max Rank = 37713
+Average Rank of already seen movies: 2151.5
+[(16829, 0.9121378064155579), (14813, 0.9033141732215881), (32573, 0.8893128037452698), (21781, 0.8886035084724426), (29996, 0.8844032287597656), (19358, 0.8833208084106445), (13611, 0.8822300434112549), (37022, 0.8812772035598755), (23359, 0.8791252970695496), (613, 0.8740326166152954)]
+Fate of a Man
+Cornered
+Captive
+Out of the Ashes
+The Battle of Sutjeska
+Hornet's Nest
+Barefoot Gen 2
+Wounded Game
+The Diary of Anne Frank
+The Man from Down Under
+Mid: 694
+Rank: 1159
+Mid: 4523
+Rank: 932
+Mid: 5018
+Rank: 705
+Mid: 1637
+Rank: 685
+Max Rank = 37713
+Average Rank of already seen movies: 870.25
+-----------------------------------------------------------------------------
+Negative: 10
+Average Percentage of already seen movies: 0.009178261472866565
+Max Rank = 37713
+Average Rank of already seen movies: 18503.80612244898
+Batman
+Superman vs. The Elite
+Detective Byomkesh Bakshy!
+Next Avengers: Heroes of Tomorrow
+Superman
+Animal House
+Link
+Wonder Woman
+The Wild World of Batwoman
+Twin Sitters
+Mid: 0
+Rank: 5891
+Mid: 4460
+Rank: 117
+Mid: 15159
+Rank: 32
+Mid: 497
+Rank: 25
+Max Rank = 37713
+Average Rank of already seen movies: 1516.25
+[(16829, 0.9015846252441406), (29996, 0.8859132528305054), (14813, 0.8852094411849976), (20618, 0.8716006875038147), (23359, 0.8714985251426697), (20275, 0.8710579872131348), (10615, 0.8701881766319275), (28603, 0.8672910928726196), (21781, 0.8667889833450317), (32573, 0.8647911548614502)]
+Fate of a Man
+The Battle of Sutjeska
+Cornered
+The Look of Silence
+The Diary of Anne Frank
+The Key
+Four Sons
+Alive
+Out of the Ashes
+Captive
+Mid: 694
+Rank: 706
+Mid: 4523
+Rank: 1010
+Mid: 5018
+Rank: 1394
+Mid: 1637
+Rank: 626
+Max Rank = 37713
+Average Rank of already seen movies: 934.0
+-----------------------------------------------------------------------------
+Negative: 20
+Average Percentage of already seen movies: 0.009304787801205886
+Max Rank = 37713
+Average Rank of already seen movies: 18614.23469387755
+Batman
+Next Avengers: Heroes of Tomorrow
+Wonder Woman
+Link
+Detective Byomkesh Bakshy!
+Scanners II: The New Order
+Capture the Flag
+Mask
+Despicable Me 3
+Freaky Deaky
+Mid: 0
+Rank: 1751
+Mid: 4460
+Rank: 65
+Mid: 15159
+Rank: 84
+Mid: 497
+Rank: 21
+Max Rank = 37713
+Average Rank of already seen movies: 480.25
+[(16829, 0.8985894322395325), (14813, 0.8804119825363159), (29996, 0.8781477808952332), (20618, 0.867125928401947), (37022, 0.8665972948074341), (19358, 0.8659993410110474), (10615, 0.8620124459266663), (8894, 0.8587716221809387), (21781, 0.8555486798286438), (6612, 0.850440502166748)]
+Fate of a Man
+Cornered
+The Battle of Sutjeska
+The Look of Silence
+Wounded Game
+Hornet's Nest
+Four Sons
+Sometimes in April
+Out of the Ashes
+Three Came Home
+Mid: 694
+Rank: 767
+Mid: 4523
+Rank: 101
+Mid: 5018
+Rank: 315
+Mid: 1637
+Rank: 386
+Max Rank = 37713
+Average Rank of already seen movies: 392.25
+-----------------------------------------------------------------------------
+Epochs Test
+Epochs: 10
+Average Percentage of already seen movies: 0.010486853233061364
+Max Rank = 37713
+Average Rank of already seen movies: 18499.0
+Batman
+Detective Byomkesh Bakshy!
+Twin Sitters
+Next Avengers: Heroes of Tomorrow
+Small Soldiers
+Wonder Woman
+The League of Extraordinary Gentlemen
+Freaky Deaky
+Lawnmower Man 2: Beyond Cyberspace
+Baby Geniuses
+Mid: 0
+Rank: 5579
+Mid: 4460
+Rank: 82
+Mid: 15159
+Rank: 25
+Mid: 497
+Rank: 129
+Max Rank = 37713
+Average Rank of already seen movies: 1453.75
+[(16829, 0.9085209369659424), (14813, 0.8940143585205078), (23359, 0.8894126415252686), (15696, 0.8835344910621643), (22709, 0.8804430961608887), (23584, 0.8747221827507019), (6612, 0.873631477355957), (26965, 0.8736313581466675), (15096, 0.8718942999839783), (25314, 0.8715434670448303)]
+Fate of a Man
+Cornered
+The Diary of Anne Frank
+In Darkness
+The Inspector
+Carriage to Vienna
+Three Came Home
+Return to the Philippines, the Leon Cooper Story
+Commandos Strike at Dawn
+Devil's Island
+Mid: 694
+Rank: 634
+Mid: 4523
+Rank: 270
+Mid: 5018
+Rank: 1259
+Mid: 1637
+Rank: 139
+Max Rank = 37713
+Average Rank of already seen movies: 575.5
+-----------------------------------------------------------------------------
+Epochs: 15
+Average Percentage of already seen movies: 0.008917607659339272
+Max Rank = 37713
+Average Rank of already seen movies: 18588.73469387755
+Batman
+Wonder Woman
+Batman
+Next Avengers: Heroes of Tomorrow
+Detective Byomkesh Bakshy!
+The Avengers
+Despicable Me 2
+The Batman Superman Movie: World's Finest
+Lego Batman: The Movie - DC Super Heroes Unite
+Captain Video, Master of the Stratosphere
+Mid: 0
+Rank: 573
+Mid: 4460
+Rank: 168
+Mid: 15159
+Rank: 5
+Mid: 497
+Rank: 2
+Max Rank = 37713
+Average Rank of already seen movies: 187.0
+[(20618, 0.8201784491539001), (23359, 0.8033972978591919), (613, 0.7988132834434509), (8894, 0.7972754836082458), (16829, 0.7910327315330505), (37022, 0.7868066430091858), (14813, 0.7858721613883972), (10615, 0.7837507724761963), (33350, 0.7792351841926575), (19358, 0.7780907154083252)]
+The Look of Silence
+The Diary of Anne Frank
+The Man from Down Under
+Sometimes in April
+Fate of a Man
+Wounded Game
+Cornered
+Four Sons
+Chosen
+Hornet's Nest
+Mid: 694
+Rank: 484
+Mid: 4523
+Rank: 146
+Mid: 5018
+Rank: 69
+Mid: 1637
+Rank: 296
+Max Rank = 37713
+Average Rank of already seen movies: 248.75
+-----------------------------------------------------------------------------
+Epochs: 20
+Average Percentage of already seen movies: 0.008420044894246092
+Max Rank = 37713
+Average Rank of already seen movies: 18258.530612244896
+Batman
+Batman
+Wonder Woman
+Lego Batman: The Movie - DC Super Heroes Unite
+The Avengers
+Batman Unlimited: Mechs vs. Mutants
+Justice League Dark
+Batman & Robin
+Fantastic 4: Rise of the Silver Surfer
+Adventures of a Teenage Dragonslayer
+Mid: 0
+Rank: 47
+Mid: 4460
+Rank: 53
+Mid: 15159
+Rank: 4
+Mid: 497
+Rank: 1
+Max Rank = 37713
+Average Rank of already seen movies: 26.25
+[(29996, 0.7643764019012451), (20562, 0.7314485311508179), (14813, 0.7292295098304749), (14344, 0.7273531556129456), (16829, 0.726227343082428), (4031, 0.7261373400688171), (13128, 0.7189998030662537), (23359, 0.7173709869384766), (14986, 0.7171277403831482), (5018, 0.7152817249298096)]
+The Battle of Sutjeska
+Brother's War
+Cornered
+Essential Killing
+Fate of a Man
+The Big Red One
+J'accuse!
+The Diary of Anne Frank
+My Son John
+The Pianist
+Mid: 694
+Rank: 101
+Mid: 4523
+Rank: 29
+Mid: 5018
+Rank: 9
+Mid: 1637
+Rank: 123
+Max Rank = 37713
+Average Rank of already seen movies: 65.5
+-----------------------------------------------------------------------------
+Epochs: 30
+Average Percentage of already seen movies: 0.009149222957454085
+Max Rank = 37713
+Average Rank of already seen movies: 17862.64285714286
+Batman
+The Avengers
+Batman
+The Lost Missile
+Wonder Woman
+Batman Unlimited: Mechs vs. Mutants
+Lego Batman: The Movie - DC Super Heroes Unite
+Justice League Dark
+Next Avengers: Heroes of Tomorrow
+Atom Man vs Superman
+Mid: 0
+Rank: 18
+Mid: 4460
+Rank: 59
+Mid: 15159
+Rank: 1
+Mid: 497
+Rank: 0
+Max Rank = 37713
+Average Rank of already seen movies: 19.5
+[(29996, 0.7100872993469238), (16829, 0.6876524090766907), (23359, 0.6868565082550049), (5018, 0.6783463358879089), (10615, 0.6693995594978333), (37022, 0.6671534776687622), (8894, 0.6669682860374451), (20562, 0.6662433743476868), (4523, 0.6636694073677063), (21470, 0.658760130405426)]
+The Battle of Sutjeska
+Fate of a Man
+The Diary of Anne Frank
+The Pianist
+Four Sons
+Wounded Game
+Sometimes in April
+Brother's War
+The Bourne Identity
+Two Weeks in September
+Mid: 694
+Rank: 25
+Mid: 4523
+Rank: 8
+Mid: 5018
+Rank: 3
+Mid: 1637
+Rank: 38
+Max Rank = 37713
+Average Rank of already seen movies: 18.5
+-----------------------------------------------------------------------------
+HS Test
+HS: 0
+Average Percentage of already seen movies: 0.010057186834341808
+Max Rank = 37713
+Average Rank of already seen movies: 18624.367346938776
+Batman
+Superman vs. The Elite
+Wonder Woman
+Mechanic: Resurrection
+Next Avengers: Heroes of Tomorrow
+Despicable Me 2
+Detective Byomkesh Bakshy!
+Adventures of a Teenage Dragonslayer
+Agent Cody Banks 2: Destination London
+Superman
+Mid: 0
+Rank: 6859
+Mid: 4460
+Rank: 172
+Mid: 15159
+Rank: 20
+Mid: 497
+Rank: 202
+Max Rank = 37713
+Average Rank of already seen movies: 1813.25
+[(23359, 0.8799473643302917), (14813, 0.8793971538543701), (19358, 0.8760241270065308), (24610, 0.8757240176200867), (15096, 0.8693279027938843), (33350, 0.8684491515159607), (16829, 0.8675553202629089), (20275, 0.8663957118988037), (3819, 0.863337516784668), (29996, 0.8629391193389893)]
+The Diary of Anne Frank
+Cornered
+Hornet's Nest
+Phoenix
+Commandos Strike at Dawn
+Chosen
+Fate of a Man
+The Key
+Casualties of War
+The Battle of Sutjeska
+Mid: 694
+Rank: 465
+Mid: 4523
+Rank: 283
+Mid: 5018
+Rank: 1024
+Mid: 1637
+Rank: 368
+Max Rank = 37713
+Average Rank of already seen movies: 535.0
+-----------------------------------------------------------------------------
+HS: 1
+Average Percentage of already seen movies: 0.009634381479328628
+Max Rank = 37713
+Average Rank of already seen movies: 18454.29591836735
+The Avengers
+Batman
+Toy Story
+Wonder Woman
+Lego Batman: The Movie - DC Super Heroes Unite
+The Lego Movie
+Batman & Robin
+Batman Unlimited: Mechs vs. Mutants
+Superman vs. The Elite
+Justice League: War
+Mid: 0
+Rank: 2
+Mid: 4460
+Rank: 50
+Mid: 15159
+Rank: 0
+Mid: 497
+Rank: 1
+Max Rank = 37713
+Average Rank of already seen movies: 13.25
+[(4523, 0.643180787563324), (5018, 0.6139359474182129), (14028, 0.6045457720756531), (2652, 0.6017369627952576), (1637, 0.597571074962616), (8395, 0.5969266295433044), (13961, 0.5948660373687744), (9765, 0.5920886993408203), (20562, 0.5893785357475281), (32803, 0.584437906742096)]
+The Bourne Identity
+The Pianist
+Fortress of War
+Voyage of the Damned
+Saving Private Ryan
+The Four Feathers
+The North Star
+A Foreign Affair
+Brother's War
+Action in Arabia
+Mid: 694
+Rank: 28
+Mid: 4523
+Rank: 0
+Mid: 5018
+Rank: 1
+Mid: 1637
+Rank: 4
+Max Rank = 37713
+Average Rank of already seen movies: 8.25
+-----------------------------------------------------------------------------

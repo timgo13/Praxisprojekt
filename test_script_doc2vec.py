@@ -325,11 +325,14 @@ def test_user_two(model):
 # x_vector_size, x_min_count, x_window, x_negative, x_epochs, x_hs
 default_values = [100, 4, 10, 3, 10, 0]
 
-test_vec_size = [50,100,150,200,250,300,350,400,450,500]
-test_min_count = [1,2,3,4,5,7,10]
-test_window = [3,5,10,15,20] # NEEDS Bigger?!
+#test_vec_size = [50,100,150,200,250,300,350,400,450,500]
+#test_min_count = [1,2,3,4,5,7,10]
+#test_window = [3,5,10,15,20] # NEEDS Bigger?!
 #Test Stop
-test_negative = [0,1,2,3,5,10,15,20]
+test_vec_size = []
+test_min_count = []
+test_window = [] 
+test_negative = [0,1,2,3,5,10,20]
 test_epochs = [10,15,20,30]
 test_hs = [0,1]
 
@@ -350,36 +353,42 @@ print("-------------------------------------------------------------------------
 print("Vector Size Test")
 # Vector Size
 for v in test_vec_size:
+    print("Vector: " + str(v))
     test_pass(v,default_values[1],default_values[2],default_values[3],default_values[4],default_values[5])
     print("-----------------------------------------------------------------------------")
 
 print("Min Count Test")
 # Min Count
 for c in test_min_count:
+    print("Min Count: " + str(c))
     test_pass(default_values[0],c,default_values[2],default_values[3],default_values[4],default_values[5])
     print("-----------------------------------------------------------------------------")
 
 print("Window Test")
 # Window
 for w in test_window:
+    print("Window Test: " + str(w))
     test_pass(default_values[0],default_values[1],w,default_values[3],default_values[4],default_values[5])
     print("-----------------------------------------------------------------------------")
 
 print("Negative Test")
 # Negative
 for n in test_negative:
+    print("Negative: " + str(n))
     test_pass(default_values[0],default_values[1],default_values[2],n,default_values[4],default_values[5])
     print("-----------------------------------------------------------------------------")
 
 print("Epochs Test")
 # Epochs
 for e in test_epochs:
+    print("Epochs: " + str(e))
     test_pass(default_values[0],default_values[1],default_values[2],default_values[3],e,default_values[5])
     print("-----------------------------------------------------------------------------")
 
 print("HS Test")
 # HS
 for hs in test_hs:
+    print("HS: " + str(hs))
     test_pass(default_values[0],default_values[1],default_values[2],default_values[3],default_values[4],hs)
     print("-----------------------------------------------------------------------------")
 

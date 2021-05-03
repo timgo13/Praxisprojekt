@@ -1,0 +1,16 @@
+Before: 45466
+After: 37713
+80003
+20001
+
+|Train| Average Percentage of already seen movies: 0.0003637951794427727
+|Test| Average Percentage of already seen movies: 0.009431919000363862
+
+|Train| Average Percentage of already seen movies: 0.00034327876105765714
+|Test| Average Percentage of already seen movies: 0.005926209640131352
+
+|Train| Average Percentage of already seen movies: 0.0003524176882231156
+|Test| Average Percentage of already seen movies: 0.006170680307488418
+
+|Train| Average Percentage of already seen movies: 0.0008182392134437826
+|Test| Average Percentage of already seen movies: 0.007618072017464826

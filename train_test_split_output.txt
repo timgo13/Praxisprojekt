@@ -1,0 +1,21 @@
+Doc2vec
+|Train| Average Percentage of already seen movies: 0.0004941091605896056
+|Test| Average Percentage of already seen movies: 0.006443546928944611
+|Test| Average Percentage of already seen movies: 0.008166181645664182
+
+
+
+
+
+Bert paraphrase-distilroberta-base-v1
+|Train|Average Percentage of already seen movies: 0.03613546778979657
+|Test|Average Percentage of already seen movies: 0.0017783677268487302
+top 100
+|Test|Average Percentage of already seen movies: 0.00891506912714803
+
+
+stsb-roberta-base
+|Train|Average Percentage of already seen movies: 0.012304695330962429
+|Test|Average Percentage of already seen movies: 0.0015319994813558482
+top 100
+|Test|Average Percentage of already seen movies: 0.00885664134769516

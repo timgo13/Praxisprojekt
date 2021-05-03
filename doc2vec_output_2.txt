@@ -1,0 +1,147 @@
+Before: 45466
+After: 37713
+-----------------------------------------------------------------------------
+Vector Size Test
+Min Count Test
+Window Test
+Window Test: 50
+Average Percentage of already seen movies: 0.009241921658221653
+Max Rank = 37713
+Average Rank of already seen movies: 19518.34693877551
+Batman
+Batman
+Next Avengers: Heroes of Tomorrow
+Midnight Special
+Wonder Woman
+Justice League Dark
+On the Other Side of the Tracks
+Twin Sitters
+Freaky Deaky
+Superman vs. The Elite
+Mid: 0
+Rank: 869
+Mid: 4460
+Rank: 30
+Mid: 15159
+Rank: 25
+Mid: 497
+Rank: 1
+Max Rank = 37713
+Average Rank of already seen movies: 231.25
+[(20618, 0.8128294348716736), (20275, 0.8121793270111084), (14986, 0.8090100884437561), (23359, 0.7984461784362793), (14631, 0.7952015399932861), (14344, 0.7940967082977295), (4523, 0.7931123971939087), (37022, 0.792538583278656), (14669, 0.7912358641624451), (23827, 0.7896774411201477)]
+The Look of Silence
+The Key
+My Son John
+The Diary of Anne Frank
+No Rest for the Brave
+Essential Killing
+The Bourne Identity
+Wounded Game
+The Thief
+The Dead Season
+Mid: 694
+Rank: 1249
+Mid: 4523
+Rank: 6
+Mid: 5018
+Rank: 321
+Mid: 1637
+Rank: 483
+Max Rank = 37713
+Average Rank of already seen movies: 514.75
+-----------------------------------------------------------------------------
+Window Test: 100
+Average Percentage of already seen movies: 0.009310776538874417
+Max Rank = 37713
+Average Rank of already seen movies: 20173.102040816328
+Batman
+Jetsons: The Movie
+Wonder Woman
+The 6th Day
+Twin Sitters
+Atom Man vs Superman
+Lady Killer
+LEGO Hero Factory: Rise of the Rookies
+R.O.D - Read or Die
+Batman
+Mid: 0
+Rank: 2129
+Mid: 4460
+Rank: 135
+Mid: 15159
+Rank: 12
+Mid: 497
+Rank: 9
+Max Rank = 37713
+Average Rank of already seen movies: 571.25
+[(23827, 0.8220824003219604), (37022, 0.8192709684371948), (28603, 0.8008691668510437), (37585, 0.7940778732299805), (20275, 0.7921158671379089), (11264, 0.7893948554992676), (23081, 0.7867231369018555), (28047, 0.7846901416778564), (8299, 0.780095636844635), (6183, 0.7792960405349731)]
+The Dead Season
+Wounded Game
+Alive
+Little Moscow
+The Key
+Four Men and a Prayer
+Men of the Fighting Lady
+Aftermath
+The Mortal Storm
+Night Crossing
+Mid: 694
+Rank: 1142
+Mid: 4523
+Rank: 13
+Mid: 5018
+Rank: 701
+Mid: 1637
+Rank: 487
+Max Rank = 37713
+Average Rank of already seen movies: 585.75
+-----------------------------------------------------------------------------
+Window Test: 999
+Average Percentage of already seen movies: 0.009513828265493872
+Max Rank = 37713
+Average Rank of already seen movies: 20140.448979591838
+R.O.D - Read or Die
+The 6th Day
+The Kingdom
+The Last Dragonslayer
+A Long Hot Summer
+Dick Figures: The Movie
+Wonder Woman
+The Baldheaded Agent and the Land of Destruction Mission
+Twin Sitters
+Justice League Dark
+Mid: 0
+Rank: 949
+Mid: 4460
+Rank: 120
+Mid: 15159
+Rank: 60
+Mid: 497
+Rank: 46
+Max Rank = 37713
+Average Rank of already seen movies: 293.75
+[(10311, 0.8120052814483643), (7382, 0.8093823194503784), (14986, 0.8061358332633972), (30017, 0.7992833852767944), (16829, 0.7945529222488403), (37022, 0.7928800582885742), (16502, 0.7921870946884155), (4718, 0.7905431985855103), (20562, 0.7897920608520508), (23827, 0.7869383692741394)]
+The Brave One
+36 Hours
+My Son John
+The Woman I Love
+Fate of a Man
+Wounded Game
+The Cold Light of Day
+Ernest In The Army
+Brother's War
+The Dead Season
+Mid: 694
+Rank: 1540
+Mid: 4523
+Rank: 59
+Mid: 5018
+Rank: 462
+Mid: 1637
+Rank: 903
+Max Rank = 37713
+Average Rank of already seen movies: 741.0
+-----------------------------------------------------------------------------
+Negative Test
+Negative: 0
+Average Percentage of already seen movies: 0.0026432162788840525
