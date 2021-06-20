@@ -1,6 +1,6 @@
 # Praxisprojekt
 
-## List of all scripts and purpose:
+## List of main scripts and purposes:
 
 test_bagofwords_imdb.ipynb  ->  First implementation of user based embeddings with BagofWords + Test different function computation time
 
